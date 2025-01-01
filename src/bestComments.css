@@ -1,0 +1,182 @@
+.bestcomments {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1280px;
+    box-sizing: border-box;
+  }
+  .bestcomments .good-reviews-by-customers {
+    margin: 0 51.6px 9.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 40.7px;
+    color: #D1B992;
+  }
+  .bestcomments .lorem-ispum-elesto-curto-mina-judesr-for-enjiuyt-goof-dcrs-tyup-liek-tyuh-hiiyen-qeuzn-jduqnal-juezo-hsqtb-plsud-iysbj-luezjj {
+    margin: 0 18.2px 92px 30.4px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 21.7px;
+    color: #000000;
+  }
+  .bestcomments .lorem-ipsum-for-new-bite-gerd-kklom-jjkeu-dydsdf-hbbdue-skqihdyv-feuunsn {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 12.9px;
+    text-transform: capitalize;
+    color: #000000;
+  }
+  
+  .bestcomments .lorem-ipsum-for-new-bite-gerd-kklom-jjkeu-dydsdf-hbbdue-skqihdyv-feuunsn-1 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 12.9px;
+    text-transform: capitalize;
+    color: #000000;
+  }
+  
+  .bestcomments .lorem-ipsum-for-new-bite-gerd-kklom-jjkeu-dydsdf-hbbdue-skqihdyv-feuunsn-2 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 12.9px;
+    text-transform: capitalize;
+    color: #000000;
+  }
+  
+  .bestcomments .container {
+    display: flex;
+    flex-direction: row;
+    column-gap: 59.7px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  
+ 
+  .bestcomments .container-4 {
+    border-radius: 6.8px;
+    background: rgba(240, 231, 218, 0.48);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 14.9px 23.7px 60.4px 18.3px;
+    box-sizing: border-box;
+  }
+  .commentsss {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 392px;
+    box-sizing: border-box;
+}
+  .commentsss .lorem-ipsum-for-new-bite-gerd-kklom-jjkeu-dydsdf-hbbdue-skqihdyv-feuunsn {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    width: 234px;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 12.9px;
+    text-transform: capitalize;
+    color: #000000;
+  }
+
+  .commentsss .vector {
+    margin-bottom: 8.1px;
+    align-self: flex-start;
+    width: 112.6px;
+    height: 19px;
+  }       
+  .commentsss .ellipse-12 {
+    border-radius: 33.9px;
+    position: absolute;
+    width: 67.8px;
+    background: url('/public/profil.jpeg') 50% / cover no-repeat, linear-gradient(#997D7D, #997D7D);
+    height: 65.8px;
+    margin-left: 221px;
+    margin-top: -24px;
+}
+
+.commentsss .brey-nidev-customer {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 10.9px;
+    line-height: 1.333;
+    text-transform: capitalize;
+  }
+  .commentsss .brey-nidev-customer-sub19 {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 17.6px;
+    line-height: 1.333;
+    text-transform: capitalize;
+  }
+  .commentsss .brey-nidev-customer {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 12.9px;
+    text-transform: capitalize;
+    color: #000000;
+  }
+  .commentsss .container {
+    border-radius: 8.1px 25.8px 25.8px 0;
+    background: #C7A878;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8.7px 27.6px 8.4px 7.5px;
+    margin-top: -16px;
+    box-sizing: border-box;
+    margin-left: -166px;
+}
+  .commentsss .container-1 {
+    border-radius: 6.8px;
+    background: #DDCBAD;
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 46.8px 0 30.5px 25.1px;
+    box-sizing: border-box;
+    height: 242px;
+}
+
+.comment-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.comment,
+.comment2,
+.comment3 {
+  /* Your card styles */
+  /* Ensure the width of each card is appropriately adjusted to fit within the container */
+  width: calc((100% - 40px) / 3); /* Adjust the width according to your design */
+}
+
+
+.comment, .comment2, .comment3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0px 10px 0px 10px;
+  width: 290px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+
+.comment2 {
+  margin-left: 20px; /* Add margin to separate the cards */
+}
+

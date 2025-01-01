@@ -1,0 +1,147 @@
+.Caracteristique {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 262px 0 336px 0;
+    width: 1280px;
+    box-sizing: border-box;
+  }
+  .caractristiques-sub12 {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 17.3px;
+    line-height: 1.333;
+  }
+  .Caracteristique .caractristiques {
+    margin-bottom: 7.2px;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 22.6px;
+    color: #000000;
+  }
+  .Caracteristique .voire-plus-de-caractristiques {
+    position: absolute;
+    left: 151px;
+    bottom: 332.5px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 22.6px;
+    color: #000000;
+  }
+
+  .Caracteristique .crtique {
+    margin: 0 0 10.2px 183px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 22.6px;
+    color: #000000;
+}
+
+
+.Caracteristique .surface {
+    margin-right: 11px;
+    width: 63.9px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18.6px;
+    color: #000000;
+}
+
+
+  .Caracteristique .pice {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18.6px;
+    color: #000000;
+  }
+  .Caracteristique .chambre {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18.6px;
+    color: #000000;
+  }
+  .Caracteristique .salle-de-bain {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18.6px;
+    color: #000000;
+  }
+  .Caracteristique .salon {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18.6px;
+    color: #000000;
+  }
+  .Caracteristique .electricit {
+    margin-bottom: 2px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 18.6px;
+    margin-left: 140px;
+    padding-right: 5px;
+    color: #000000;
+}
+  .Caracteristique .chaufage {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18.6px;
+    color: #000000;
+  }
+  .Caracteristique .m {
+    margin-right: -47px;
+    width: 55.6px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 20.6px;
+    color: #000000;
+}
+  .Caracteristique .container {
+    margin: 0 8.6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 749.5px;
+    box-sizing: border-box;
+  }
+  
+  .Caracteristique .container-1 {
+    margin: 0 0 3.3px 3.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 786.5px;
+    box-sizing: border-box;
+  }
+  .Caracteristique .container-2 {
+    border-radius: 6.6px;
+    background: #FBF8F4;
+    position: relative;
+    display: flex;
+    margin-left: -4px;
+    flex-direction: column;
+    padding: 0.3px 110.2px 21.1px 80px;
+    box-sizing: border-box;
+}
+  .Caracteristique .container-3 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
